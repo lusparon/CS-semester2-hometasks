@@ -1,0 +1,7 @@
+C:\Users\marti\Desktop\Новая папка\HomeWork15\bin\Debug\HomeWork15.exe.config
+C:\Users\marti\Desktop\Новая папка\HomeWork15\bin\Debug\HomeWork15.exe
+C:\Users\marti\Desktop\Новая папка\HomeWork15\bin\Debug\HomeWork15.pdb
+C:\Users\marti\Desktop\Новая папка\HomeWork15\obj\Debug\HomeWork15.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\Новая папка\HomeWork15\obj\Debug\HomeWork15.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Новая папка\HomeWork15\obj\Debug\HomeWork15.exe
+C:\Users\marti\Desktop\Новая папка\HomeWork15\obj\Debug\HomeWork15.pdb

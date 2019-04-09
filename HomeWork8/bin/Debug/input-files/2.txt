@@ -1,0 +1,6 @@
+a=10
+b=5
+EVAL ( a + b ) * b 
+EVAL  a + b
+c=2
+EVAL c * a * b  

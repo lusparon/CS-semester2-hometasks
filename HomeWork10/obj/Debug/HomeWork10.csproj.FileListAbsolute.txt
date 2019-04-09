@@ -1,0 +1,7 @@
+C:\Users\marti\Desktop\C#\HomeWork10\bin\Debug\HomeWork10.exe.config
+C:\Users\marti\Desktop\C#\HomeWork10\bin\Debug\HomeWork10.exe
+C:\Users\marti\Desktop\C#\HomeWork10\bin\Debug\HomeWork10.pdb
+C:\Users\marti\Desktop\C#\HomeWork10\obj\Debug\HomeWork10.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\C#\HomeWork10\obj\Debug\HomeWork10.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\C#\HomeWork10\obj\Debug\HomeWork10.exe
+C:\Users\marti\Desktop\C#\HomeWork10\obj\Debug\HomeWork10.pdb
